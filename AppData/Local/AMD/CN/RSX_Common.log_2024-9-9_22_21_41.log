@@ -1,0 +1,74 @@
+2024-09-09::22:21:41::540	GetEligibleDriverDetailsSize                      :48  		Get eligible drivers Size started---------------------
+
+2024-09-09::22:21:41::643	ADDL::getURLVersionJSON                           :2123	DEBUG	No Server Ip found
+
+2024-09-09::22:21:41::644	ADDL::getURLVersionJSON                           :2134	DEBUG	No Servertype found
+
+2024-09-09::22:21:41::734	getSmartBlurDetailsJsonURL                        :35  	DEBUG	No Server Ip found
+
+2024-09-09::22:21:41::735	getSmartBlurDetailsJsonURL                        :43  	DEBUG	No Servertype found
+
+2024-09-09::22:21:41::794	ADDL::isVersionCompatible                         :704 	DEBUG	Inside local version.json parser
+
+2024-09-09::22:21:41::808	ADDL::isVersionCompatible                         :819 	DEBUG	Downloading a file from server: . Download destination: C:\Users\anu\AppData\Local//AMD_Common//addl_details.json
+
+2024-09-09::22:21:41::815	ADDL::isVersionCompatible                         :939 	DEBUG	 addl version : 1.000000  --- dll has 1.000000 
+
+2024-09-09::22:21:41::815	ADDL::validateInput                               :224 	DEBUG	 common library version  is compatible 
+
+2024-09-09::22:21:41::815	ADDL::fillBuildInfoDetails                        :129 	DEBUG	Entered fillBuildInfo function to get the system and build details
+
+2024-09-09::22:21:41::815	GetEligibleDriverDetailsSize                      :68  	DEBUG	BuildInfo details : is_consumer - 1, is_workstation - 0, is_win10 - 1, is_win7 - 0, is_legacy_eligible - 0,   isIcafe - 0, isFalcon - 0
+
+2024-09-09::22:21:41::815	GetEligibleDriverDetailsSize                      :219 		INSIDE CONSUMER
+
+2024-09-09::22:21:42::175	ADDL::ParseJSONfile                               :384 	DEBUG	file under checking C:\Users\anu\AppData\Local//AMD_Common//DrvDldDetails_Consumer_WHQL_Win10.json
+
+2024-09-09::22:21:42::176	ADDL::checkDownloadAccelaratorEligibility         :2288	DEBUG	Download Acceleration is eligible since the physical disk is an SSD and the CPU core count is >= 4
+
+2024-09-09::22:21:42::741	ADDL::checkURLFormat                              :73  	DEBUG	No serverIp is found
+
+2024-09-09::22:21:42::741	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1560	DEBUG	hconnet - /drivers/installer/json/NewComponents.json
+
+2024-09-09::22:21:42::742	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1570	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2024-09-09::22:21:42::742	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1574	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2024-09-09::22:21:42::742	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1576	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2024-09-09::22:21:42::960	IsSmartBlurAvailableIMPL                          :1989	DEBUG	Try using previous data
+
+2024-09-09::22:21:44::304	ADDL::updateDriverInfo                            :528 	DEBUG	Deviceidcheck---success
+
+2024-09-09::22:21:44::304	ADDL::updateDriverInfo                            :531 	DEBUG	consumer assigned recognised
+
+2024-09-09::22:21:44::305	ADDL::constructDeploymentAcceleratorPatchURL      :614 	DEBUG	No serverIp is found
+
+2024-09-09::22:21:44::306	ADDL::checkHeaderResponseCode                     :576 	DEBUG	hconnet - /drivers/installer/Patch/amd-software-adrenalin-edition-24.7.1-combined-13821B91-12446A2A.exe
+
+2024-09-09::22:21:44::431	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1613	DEBUG	Filesize of NewComponents.json is 16414. Modified 2024-07-15 14:26:36.000 UTC
+
+2024-09-09::22:21:44::432	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1649	DEBUG	Filesize of NewComponents.json is 16414. Modified 2024-07-15 14:26:36.000 UTC
+
+2024-09-09::22:21:44::432	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1653	DEBUG	Cached file up to date
+
+2024-09-09::22:21:45::905	ADDL::constructDeploymentAcceleratorPatchURL      :672 		No deployment accelerated build found for amd-software-adrenalin-edition-24.7.1-combined-13821B91-12446A2A.exe. Status code returned: 404
+
+2024-09-09::22:21:45::905	ADDL::updateDriverInfo                            :568 	DEBUG	DEVICE 15D8-C4 is  eligible for driver to 24.10.29.01-240714a-405988C-AMD-Software-Adrenalin-Edition 
+
+2024-09-09::22:21:45::907	ADDL::fillDriverInfoDetails                       :282 	DEBUG	Successfully downloaded the JSON file
+
+2024-09-09::22:21:45::907	GetEligibleDriverDetailsSize                      :315 	DEBUG	Get eligible drivers size function ended
+
+2024-09-09::22:21:45::908	GetEligibleDriverDetails                          :357 	DEBUG	Get eligible drivers started
+
+2024-09-09::22:21:45::908	GetEligibleDriverDetails                          :367 	DEBUG	Get eligible drivers function ended
+
+2024-09-09::22:22:26::157	getSmartBlurDetailsJsonURL                        :35  	DEBUG	No Server Ip found
+
+2024-09-09::22:22:26::158	getSmartBlurDetailsJsonURL                        :43  	DEBUG	No Servertype found
+
+2024-09-09::22:22:27::996	getSmartBlurDetailsJsonURL                        :35  	DEBUG	No Server Ip found
+
+2024-09-09::22:22:27::996	getSmartBlurDetailsJsonURL                        :43  	DEBUG	No Servertype found
+

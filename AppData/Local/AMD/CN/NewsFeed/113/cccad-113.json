@@ -1,0 +1,134 @@
+[
+  {
+    "id": "Feedback",
+    "title": "Your feedback is important to us!",
+    "lnk": "https://www.feedback.amd.com/se/5A1E27D2730E4A45",
+    "tag": "desktop;radeon;child;commercial;rsx_howto",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/FeedbackAdrenalin_BG_2200x900.png",
+    "logo_img": "https://download.amd.com/cccads/images/FeedbackAdrenalin_banner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "Solidworks",
+    "title": "Pro Edition provides the right balance of performance and reliability. Click to learn more",
+    "lnk": "https://www.amd.com/en/graphics/workstation-design-and-manufacturing-solutions-solidworks",
+    "tag": "desktop;workstation;commercial",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD_x_Solidworks_bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/AMD_x_Solidworks_900x600px.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "PRO",
+    "title": "Introducing AMD Radeon™ Pro W7000 Series Graphics Cards for workstation professionals and creators",
+    "lnk": "https://www.amd.com/en/graphics/workstations",
+    "tag": "desktop;workstation;commercial",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD_Radeon_PRO_Graphics_bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/AMD_Radeon_PRO_Graphics_900x600px.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "RedShift",
+    "title": "Click here to learn more",
+    "lnk": "https://www.amd.com/maxon",
+    "tag": "desktop;workstation;commercial",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/bg_amd_radeon_pro_redshift_2200x900px.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/banner_amd_radeon_pro_redshift_900x600px.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "ShopAMD",
+    "title": "For the latest AMD products, visit the AMD.com store. ",
+    "lnk": "https://shop.amd.com",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/shop_RAD-2200x900-OP1_BG.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/shop-900x388-PROD_Banner.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "Bundle2024In",
+    "title": "Get 2 games with select AMD products",
+    "lnk": "https://www.amd.com/en/gaming/why-we-game.html#game-bundle",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/232356869-L_24Q3_SM2U9Bundle_SoftwareBnrs_2200x900_en.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/232356869-L_24Q3_SM2U9Bundle_SoftwareBnrs_900x600_en.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "AMDAdvantage",
+    "title": "Unlock more performance and features with AMD Ryzen™ 9000 series processors",
+    "lnk": "https://www.amd.com/en/gaming/advantage/systems.html",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/242793571-E_24Q1_AMD-Advantage-2024--GR-Update_SoftwareBanners_combo_2200x900.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/242793571-E_24Q1_AMD-Advantage-2024--GR-Update_SoftwareBanners_combo_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "ffxvii",
+    "title": "FFXVI - Buy The Game Now On Steam",
+    "lnk": "https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/FFXVI_Banner_BG.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/FFXVI_Banner_Logo.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "spacemarine2",
+    "title": "Warhammer 40,000: Space Marine 2 - Now Available on Steam",
+    "lnk": "https://www.amd.com/en/gaming/why-we-game.html?utm_campaign=whywegame&utm_medium=redirect&utm_source=301#game-bundle",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/SpaceMarine_Banner 2_BG.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/SpaceMarine 2_ Banner_Logo.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "CoD",
+    "title": "Go Rogue with AMD - Buy Call of Duty: Black Ops 6 Now",
+    "lnk": "https://www.amd.com/en/gaming/featured-games/call-of-duty-black-ops-6.html",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/CODBOP6_Banner_BG.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/CODBOP6_Banner_LOGO.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "Unknown9",
+    "title": "Unknown 9: Awakening - Enter the Unknown with AMD",
+    "lnk": "https://www.amd.com/en/gaming/featured-games/unknown-9.html",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/Unknown9_Banner_BG.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/Unknown9_Banner_Logo.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "MarvelRivals",
+    "title": "Marvel Rivals - Play Now!",
+    "lnk": "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/Marvel_Rivals_Software_Banner.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/Transparency_SoftwareBanner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  }
+]
